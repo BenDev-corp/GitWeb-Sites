@@ -5,7 +5,7 @@ text=&f&l&nBienvenue sur MineCorp
 
 #navigation
 item-link-1=minecorp.corp
-item-label-1=MineCorp
+item-label-1=Acceuil
 item-icon-1=HOME
 item-link-2=minecorp.corp/ovh
 item-label-2=OVH
