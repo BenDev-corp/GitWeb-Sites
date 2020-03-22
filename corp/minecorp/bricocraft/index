@@ -9,12 +9,9 @@ item-icon-1=HOME
 item-link-2=minecorp.corp/ovh
 item-label-2=OVH
 item-icon-2=DATABASE
-item-link-3=minecorp.corp/bricocraft
-item-label-3=BricoCraft
-item-icon-3=SHOPPING_CART
-item-link-4=minecorp.corp/dnalab
-item-label-4=DNALab
-item-icon-4=CONTACTS
+item-link-3=minecorp.corp/dnalab
+item-label-3=DNALab
+item-icon-3=CONTACTS
 
 #header
 text=Bienvenue sur &e&lBricoCraft&f 
