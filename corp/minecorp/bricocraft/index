@@ -4,7 +4,7 @@ text=&f&lBricoCraft
 
 #navigation
 item-link-1=minecorp.corp
-item-label-1=Home
+item-label-1=Minecorp
 item-icon-1=HOME
 item-link-2=minecorp.corp/ovh
 item-label-2=OVH
