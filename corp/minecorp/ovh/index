@@ -3,8 +3,8 @@ image=https://raw.githubusercontent.com/MrCrayfish/GitWeb-Sites/master/official/
 text=&l&nBienvenue sur OVH
 
 #navigation
-item-link-1=minecorp.corp/ovh
-item-label-1=OVH
+item-link-1=minecorp.corp
+item-label-1=MineCorp
 item-icon-1=DATABASE
 item-link-2=minecorp.corp/dnalab
 item-label-2=DNALab
