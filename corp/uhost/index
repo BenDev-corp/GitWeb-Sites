@@ -14,7 +14,7 @@ item-label-3=BenDev Corp
 item-icon-3=EDIT
 item-link-4=minecorp.corp/ovh
 item-label-4=OVH
-item-icon-4=ERROR
+item-icon-4=DATABASE
 
 #paragraph
 text=Have you discovered a website that is broken, contains obscene material or copyrighted content? Please report the offending website at &ehttps://github.com/MrCrayfish/GitWeb-Sites/issues&r and our moderators will deal with it accordingly.
@@ -23,4 +23,4 @@ padding=10
 #footer
 title=GitWeb
 sub-title=Copyright (c) MrCrayfish
-home-page=welcome.official
+home-page=uhost.corp
