@@ -2,6 +2,17 @@
 image=https://raw.githubusercontent.com/MrCrayfish/GitWeb-Sites/master/official/images/banner_basic_yellow.png
 text=&l&nBienvenue sur OVH
 
+#navigation
+item-link-1=minecorp.corp/ovh
+item-label-1=OVH
+item-icon-1=DATABASE
+item-link-2=minecorp.corp/dnalab
+item-label-2=DNALab
+item-icon-2=CONTACTS
+item-link-3=minecorp.corp/bricocraft
+item-label-3=Matériaux
+item-icon-3=SHOPPING_CART
+
 #header
 text=&c&lQuesque c'est ?
 padding=10
